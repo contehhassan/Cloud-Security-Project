@@ -82,11 +82,11 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![docker-ouput](Diagrams/docker-output.png)
+![docker-ouput](Diagrams/docker-output.PNG)
 
-![filebeat-ouput](Diagrams/filebeat.png)
+![filebeat-ouput](Diagrams/filebeat.PNG)
 
-![metricbeat-ouput](Diagrams/metricbeat.png)
+![metricbeat-ouput](Diagrams/metricbeat.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
